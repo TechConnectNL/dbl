@@ -1,0 +1,9 @@
+{
+	"system": {
+		"task-scheduler":{
+			"task":{
+				"hostblacklist":{"executable":{"path":"/config/scripts/getBlacklistHosts.sh"},"crontab-spec":"30 4 * * *"}
+			}
+		}
+	}
+}
