@@ -62,3 +62,6 @@ socialize.eu1.gigya.com
 pubads.g.doubleclick.net         
 adclick.g.doubleclick.net        
 clickserve.dartsearch.net
+static.licdn.com                                                                           
+linkedin.com                                                                               
+*linkedin.com
