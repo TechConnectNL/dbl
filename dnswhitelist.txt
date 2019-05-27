@@ -66,3 +66,5 @@ static.licdn.com
 linkedin.com                                                                               
 *linkedin.com
 ip-api.com
+*usabilla.com
+*cloudfront.net
