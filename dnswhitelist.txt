@@ -64,7 +64,8 @@ adclick.g.doubleclick.net
 clickserve.dartsearch.net
 static.licdn.com                                                                           
 linkedin.com                                                                               
-*linkedin.com
+linkedin.com
 ip-api.com
-*usabilla.com
-*cloudfront.net
+usabilla.com
+cloudfront.net
+jwplatform.com
